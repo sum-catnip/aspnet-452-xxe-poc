@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP452XXEPOC-safe", "ASP452XXEPOC\ASP452XXEPOC-safe.csproj", "{3105E2D7-7127-45DE-BD47-B314A1733133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP452XXEPOC-unsafe", "ASP452XXEPOC-unsafe\ASP452XXEPOC-unsafe.csproj", "{94EB8CBF-FFB2-4AE7-8609-1BB70C4FEBF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3105E2D7-7127-45DE-BD47-B314A1733133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3105E2D7-7127-45DE-BD47-B314A1733133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3105E2D7-7127-45DE-BD47-B314A1733133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3105E2D7-7127-45DE-BD47-B314A1733133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EB8CBF-FFB2-4AE7-8609-1BB70C4FEBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EB8CBF-FFB2-4AE7-8609-1BB70C4FEBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EB8CBF-FFB2-4AE7-8609-1BB70C4FEBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EB8CBF-FFB2-4AE7-8609-1BB70C4FEBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F08324D1-7887-4415-848B-26C4543CDF7C}
+	EndGlobalSection
+EndGlobal
